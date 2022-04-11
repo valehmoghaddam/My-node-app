@@ -1,5 +1,5 @@
 ---
 applications:
- - name: GetStartedNode
+ - name: My node app
    random-route: true
    memory: 256M
